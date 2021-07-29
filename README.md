@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# POC - svg-dendogram-visx
+
+Coding Proof that we can easily use Type Script + React + Visx(d3-hierarchy) to build up customizable, interactive and responsive dendograms using SVGs.
+
+Demo available at: https://romulobordezani.github.io/svg-dendogram-visx/ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

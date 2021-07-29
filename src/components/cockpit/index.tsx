@@ -124,7 +124,7 @@ export default function CockPit({
                                                 </Text>
                                                 <text transform="translate(19.1 131.86)" >{node.data.range.initial.getFullYear()}</text>
                                                 <text transform="translate(166.19 128.6)" >{node.data.range.final.getFullYear()}</text>
-                                                <Text transform="translate(19.1 154.67)" fontWeight={800} >{`R$ ${node.data.amount.initial}}`}</Text>
+                                                <Text transform="translate(19.1 154.67)" fontWeight={800} >{`R$ ${node.data.amount.initial}`}</Text>
                                                 <Text transform="translate(166.19 152.06)" fontWeight={800} >{`R$ ${node.data.amount.final}`}</Text>
                                             </Group>
                                         </Group>
